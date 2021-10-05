@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         int viewID = view.getId();
         switch (viewID) {
             case R.id.decreaseTeam1:
-              //  mScore1--;
+                mScore1--;
                 mScoreText1.setText(String.valueOf(mScore1));
                 break;
             case R.id.decreaseTeam2:
