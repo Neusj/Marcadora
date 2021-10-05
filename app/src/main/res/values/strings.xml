@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marcadora 1 y 2</string>
+
+    <string name="team_1">Equipo 1</string>
+    <string name="team_2">Equipo 2</string>
+    <string name="initial_count">0</string>
+    <string name="minus_button_description">Boton Decremento</string>
+    <string name="plus_button_description">Boton Incremento</string>
+    <string name="marcaScore">Marca Score</string>
+    <string name="ganador">Ganador: </string>
+
+</resources>
